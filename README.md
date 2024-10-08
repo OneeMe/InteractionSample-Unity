@@ -1,4 +1,4 @@
-# Interaction Sample
+# PICO Interaction Sample Unity
 
 This sample contains the following scenes that each showcase an interaction feature:
 1. Controller and Headset tracking
