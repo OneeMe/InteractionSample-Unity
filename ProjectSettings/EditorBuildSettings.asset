@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ControllerAndHeadsetTracking.unity
+    guid: 1eae2a93ef23ffc4d97a495a7dda2f51
+  - enabled: 1
+    path: Assets/Scenes/Locomotion.unity
+    guid: 06017832a94a77844998fb71f0f78f46
+  - enabled: 1
+    path: Assets/Scenes/Haptics.unity
+    guid: 68aa8b22805a0cc4a8c30ef0f75fe1ee
+  - enabled: 1
+    path: Assets/Scenes/HTCustomGestures.unity
+    guid: b1269b59b01f4804fb2f946605ace812
+  - enabled: 1
+    path: Assets/Scenes/HTInteractions.unity
+    guid: ddb05db0bc931b5429308d87428627cb
+  - enabled: 1
+    path: Assets/Scenes/UnitySpatialKeyboard.unity
+    guid: 1300f34c0d063684fa04064c83115db3
+  m_configObjects:
+    Unity.XR.PICO.LivePreview.Settings: {fileID: 11400000, guid: 528e8171a8daa9d4c90dcc6eb913cf82,
+      type: 2}
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 16421107cd0fd6b4c847d7484c5525cb,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca61db88e424cb84dae2f940f2f5120a,
+      type: 2}
