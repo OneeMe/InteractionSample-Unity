@@ -1,5 +1,7 @@
 # PICO Interaction Sample Unity
 
+![Model](https://github.com/Pico-Developer/PICOInteractionSample-Unity/blob/main/Interaction%20Sample.png)
+
 This sample contains the following scenes that each showcase an interaction feature:
 1. Controller and Headset tracking
 2. Controller Haptics: Buffered and Unbuffered
