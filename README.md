@@ -4,7 +4,7 @@ This sample contains the following scenes that each showcase an interaction feat
 1. Controller and Headset tracking
 2. Controller Haptics: Buffered and Unbuffered
 3. Controller Locomotion
-4. Handtracking Interactions
+4. Hand Tracking Interactions
 5. Custom Hand Gesture
 6. Unity Spatial Keyboard
 
