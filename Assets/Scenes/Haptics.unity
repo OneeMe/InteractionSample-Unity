@@ -974,7 +974,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7348c0a045f641743b931e0da834a231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hapticDemoType: 1
+  hapticDemoType: 2
 --- !u!114 &847116535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6852,7 +6852,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7348c0a045f641743b931e0da834a231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hapticDemoType: 3
+  hapticDemoType: 4
 --- !u!65 &1465956519
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7055,7 +7055,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7348c0a045f641743b931e0da834a231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hapticDemoType: 0
+  hapticDemoType: 1
 --- !u!1 &1549693022
 GameObject:
   m_ObjectHideFlags: 0
@@ -8939,7 +8939,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7348c0a045f641743b931e0da834a231, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  hapticDemoType: 2
+  hapticDemoType: 3
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
