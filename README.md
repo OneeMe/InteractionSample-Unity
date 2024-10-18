@@ -30,4 +30,4 @@ Use a USB cable to connect your PICO device to your PC, then open a command line
 
 
 ## LICENSE
-Most of this project is licensed under the MIT License, see the [License](https://github.com/Pico-Developer/InteractionSample-Unity/blob/main/License.md) for licenses of dependent files.
+Most of this project is licensed under the MIT License, see [License.md](https://github.com/Pico-Developer/InteractionSample-Unity/blob/main/License.md) for licenses of dependent files.
