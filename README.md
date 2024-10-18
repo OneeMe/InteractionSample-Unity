@@ -28,7 +28,9 @@ Refer to the [documentation](https://developer.picoxr.com/document/unity/pico-in
 
 ## Build and Installation
 You can build the Unity project and install the sample APK file on your PICO 4 series device for testing. 
-Use a USB cable to connect your PICO device to your PC, then open a command line window and use the following ADB command to install the APK file on the device: adb install "filepath\filename.apk"
+Use a USB cable to connect your PICO device to your PC, then open a command line window and use the following ADB command to install the APK file on the device: 
+
+adb install "filepath\filename.apk"
 
 
 ## LICENSE
