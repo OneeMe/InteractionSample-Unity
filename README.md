@@ -23,7 +23,7 @@ This sample contains the following scenes that each showcase an interaction feat
 The PICO Interaction Sample showcases the functionalities of the Interaction Pack of the PICO Unity Integration SDK, including basic 
 controller and hand interactions, haptics, keyboard inputs, and locomotion. Developers can learn how to setup input and interactions with the Unity XR Interaction Toolkit 3.0 and the XR Hands packages.
 
-Refer to the [documentation](https://developer.picoxr.com/document/unity/pico-interaction-sample/) page of this sample for detailed description and usages of the project and scenes.
+Refer to the [documentation](https://developer.picoxr.com/document/unity/pico-interaction-sample/?v=3.0.0) page of this sample for detailed descriptions and usages of the project and scenes.
 
 
 ## Build and Installation
