@@ -17,7 +17,7 @@ MonoBehaviour:
   adaptiveHand: 0
   highFrequencyHand: 0
   openMRC: 0
-  faceTracking: 1
+  faceTracking: 0
   lipsyncTracking: 0
   eyeTracking: 0
   eyetrackingCalibration: 0
